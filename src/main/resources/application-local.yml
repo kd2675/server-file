@@ -1,0 +1,10 @@
+server:
+  port: 20307
+
+rootPath: C:\\
+rootImagePath: C:\\image
+
+spring:
+  config:
+    activate:
+      on-profile: local

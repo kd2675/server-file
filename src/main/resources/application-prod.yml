@@ -1,0 +1,10 @@
+server:
+  port: 10307
+
+rootPath: /home/kimd0/
+rootImagePath: /home/kimd0/image
+
+spring:
+  config:
+    activate:
+      on-profile: prod
